@@ -2,12 +2,11 @@
 
 DESCRIPTION PLACEHOLDER
 
-* A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
+A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 
 FEATURES PLACEHOLDER
 
-* The features and benefits of the project
-* Who maintains and contributes to the project
+* A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
