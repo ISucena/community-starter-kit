@@ -2,10 +2,12 @@
 
 A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 
+Welcome new users with maintainer defined comments the first time your users:
 
-FEATURES PLACEHOLDER
+* Create a new issue
+* Open a new pull request
+* Merge their first pull request
 
-* A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
