@@ -2,11 +2,15 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+* What the project does
+* How users can get started with the project
+* Where users can get help with your project
+
 
 FEATURES PLACEHOLDER
 
-## Getting started
+* The features and benefits of the project
+* Who maintains and contributes to the project
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
