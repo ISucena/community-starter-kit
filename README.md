@@ -2,10 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
-* What the project does
-* How users can get started with the project
-* Where users can get help with your project
-
+* A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
 
 FEATURES PLACEHOLDER
 
