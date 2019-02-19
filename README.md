@@ -1,6 +1,10 @@
 # welcome bot: A Probot App
 
+
 A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
+
+Welcome to Isomar's repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+
 
 Welcome new users with maintainer defined comments the first time your users:
 
