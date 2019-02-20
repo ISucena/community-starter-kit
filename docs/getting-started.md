@@ -34,5 +34,9 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
+Welcome to the configurguration page.
+Documentation needs for open source projects will vary, but at a minimum you should include:
 
-CONFIGS PLACEHOLDER
+* [x]  Installation instructions
+* [x]  Completing essential tasks
+* [x]  Customizing and configuring
